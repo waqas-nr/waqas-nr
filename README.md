@@ -75,7 +75,7 @@ Currently integrating **AI-assisted development** (Claude Code) to accelerate de
 |---------|------------|------|
 | [**Union Limousine**](https://unionlimousine.com) | React.js, Next.js | Frontend Engineer (built from scratch) |
 | [**Caterbee**](https://caterbee.com) | React.js, Next.js, Docker | Lead Frontend Engineer (built from scratch) |
-| **Evva** | React.js, Gatsby | Lead Frontend Engineer (built from scratch) |
+| [**Evva**](https://evva.co/) | React.js, Gatsby | Senior Software Engineer (built from scratch) |
 | **GameSmith** | React.js, Scala | Full-stack developer (frontend + APIs + DB) |
 
 > More projects available on [my portfolio](https://waqasnoor.info).
