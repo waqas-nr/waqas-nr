@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a Senior Frontend Engineer with **10+ years** of total experience – the last **6 focused exclusively on React.js and Next.js**. I build scalable, high-performance web applications from scratch and bridge the gap between frontend and backend with Ruby on Rails & Node.js.
+I'm an AI-Powered Frontend Engineer with **10+ years** of total experience – the last **6 focused exclusively on React.js and Next.js**. I build scalable, high-performance web applications from scratch and bridge the gap between frontend and backend with Ruby on Rails & Node.js.
 
 Currently integrating **AI-assisted development** (Claude Code) to accelerate delivery. Reliable, remote-friendly, and client-focused.
 
