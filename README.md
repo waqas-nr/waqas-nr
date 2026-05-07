@@ -2,7 +2,7 @@
 
 **AI-Powered Frontend Engineer** | React/Next.js Specialist | 10+ Years of Experience
 
-📍 Lahore, Pakistan | 🌐 [waqasnoor.info](https://waqasnoor.info)
+📍 Lahore, Pakistan | 🌐 [waqasnoor.info](https://waqasnoor.info/)
 
 ---
 
