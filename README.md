@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a Senior Frontend Engineer with **10+ years** in software engineering — **8+ years building production React applications**. For the last 6+ years, I've been the sole frontend owner of a B2B SaaS platform (Next.js), handling everything from architecture and reusable components to accessibility (WCAG 2.1), performance, and production monitoring with Sentry. Owned the delivery of a production TypeScript/Next.js booking platform end-to end, including its JavaScript-to-TypeScript conversion under strict mode.
+I'm a Senior Frontend Engineer with **10+ years** in software engineering, including **8+ years building production React applications** and **6+ years** as the sole frontend owner of a B2B SaaS platform (Next.js). Owns full architecture, reusable component systems, accessibility (WCAG 2.1), performance optimization, and production monitoring (Sentry). Owned the delivery of a production **TypeScript/Next.js** booking platform end-to end, including its JavaScript-to-TypeScript conversion under strict mode.
 
 Earlier full-stack years with Ruby on Rails, Node.js, and PostgreSQL gave me a solid grasp of how APIs, auth, and payments work behind the UI, including hardening Stripe payment flows to improve reliability. I use **AI-assisted development** (Claude Code) to ship faster without compromising quality.
 
