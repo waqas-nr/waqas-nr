@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-I'm a Senior Frontend Engineer with **10+ years** in software engineering — **8+ years building production React applications**. For the last 6+ years, I've been the sole frontend owner of a B2B SaaS platform (Next.js), handling everything from architecture and reusable components to accessibility (WCAG 2.1), performance, and production monitoring with Sentry.
+I'm a Senior Frontend Engineer with **10+ years** in software engineering — **8+ years building production React applications**. For the last 6+ years, I've been the sole frontend owner of a B2B SaaS platform (Next.js), handling everything from architecture and reusable components to accessibility (WCAG 2.1), performance, and production monitoring with Sentry. Owned the delivery of a production TypeScript/Next.js booking platform end-to end, including its JavaScript-to-TypeScript conversion under strict mode.
 
-Earlier full-stack years with Ruby on Rails, Node.js, and PostgreSQL gave me a solid grasp of how APIs, auth, and payments work behind the UI — including hardening Stripe payment flows for reliability. Currently deepening my TypeScript skills through personal projects, and using **AI-assisted development** (Claude Code) to ship faster without cutting corners.
+Earlier full-stack years with Ruby on Rails, Node.js, and PostgreSQL gave me a solid grasp of how APIs, auth, and payments work behind the UI, including hardening Stripe payment flows to improve reliability. I use **AI-assisted development** (Claude Code) to ship faster without compromising quality.
 
 ---
 
@@ -19,10 +19,10 @@ Earlier full-stack years with Ruby on Rails, Node.js, and PostgreSQL gave me a s
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![SCSS/SASS](https://img.shields.io/badge/SCSS/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
