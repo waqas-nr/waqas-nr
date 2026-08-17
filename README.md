@@ -84,9 +84,9 @@ Earlier full-stack years with Ruby on Rails, Node.js, and PostgreSQL gave me a s
 
 | Project | Tech Stack | Role |
 |---------|------------|------|
-| [**AI Chat Bot**](https://ai-chat.waqasnoor.info) | TypeScript, React, Next.js, OpenAI API, Turso (SQLite) | Personal project — full-stack streaming AI chat with sessions & token budgets |
+| [**Union Limousine**](https://unionlimousine.com) | React.js, Next.js, TypeScript | Frontend Engineer (built from scratch) |
 | [**Caterbee**](https://caterbee.com) | React.js, Next.js, Redux Toolkit, RTK Query, Docker | Lead Frontend Engineer (built from scratch, sole FE since 2019) |
-| [**Union Limousine**](https://unionlimousine.com) | React.js, Next.js | Frontend Engineer (built from scratch) |
+| [**AI Chat Bot**](https://ai-chat.waqasnoor.info) | TypeScript, React, Next.js, OpenAI API, Turso (SQLite) | Personal project — full-stack streaming AI chat with sessions & token budgets |
 
 > More projects available on [my portfolio](https://waqasnoor.info).
 
