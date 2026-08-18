@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Waqas Noor
 
-**Senior Frontend Engineer** | React/Next.js Specialist | 10+ Years of Experience
+**Senior Frontend Engineer** | React, Next.js, TypeScript Specialist | 10+ Years of Experience
 
 📍 Lahore, Pakistan | 🌐 [waqasnoor.info](https://waqasnoor.info/)
 
